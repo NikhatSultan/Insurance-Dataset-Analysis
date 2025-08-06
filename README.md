@@ -26,3 +26,12 @@ Install the required Python libraries:
 pip install pandas numpy matplotlib seaborn
 
 
+## 🔍 Key Insights
+
+- Smokers pay significantly higher insurance premiums than non-smokers.
+- Insurance charges increase with age and BMI.
+- Number of children has minimal effect on the insurance cost.
+- Strong positive correlation between smoking status and charges.
+
+
+
